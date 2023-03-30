@@ -1,24 +1,39 @@
 # NGS
 
 For NGS, we have analysed short read illumina data & long read nanopore data to find out what species the data came from. For this, we followed the following workflow:
-## link to workflow.
 
-## Step 1
 
-## Step 2
+## Cutadapt 
+Used to trim long read data.
 
-## Step 3
+## Trimmomatic
+Used to trim short read data.
 
-## Step 4
+## FastQC
+Quality report of reads and trimmed reads.
 
-## Step 5
+## MultiQC
+Create a single report from the analysis.
 
-## Step 6
+## Nanoplot
+Plot sequencing data and alignment.
 
-## Step 7
+## Unicycler
+Used for genome assembly.
 
-## Step 8
+## Prokka
+Genome annotation.
 
-## Step 9
+## Busco
+Assess genome assembly and annotation completeness.
 
-## Step 10
+## Quast
+Genome assembly quality.
+
+## Kraken2
+Assign taxonomic labels to sequencing reads.
+
+## Roary
+
+## starAMR
+scans genome assemblies for AMR (AntiMicrobial Resistance) genes.
