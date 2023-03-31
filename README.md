@@ -42,7 +42,7 @@ Used to find the sum of the core and accessory genomes (pan genome).
 ## StarAMR
 Used to scan genome assemblies for AMR (AntiMicrobial Resistance) genes.
 
-##RAxML
+## RAxML
 Used to make the Phylogenomic tree.
 
 ## Phandago
