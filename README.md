@@ -10,19 +10,22 @@ Used to trim long read data.
 Used to trim short read data.
 
 ## FastQC
-Quality report of reads and trimmed reads.
+Used for quality report of reads and trimmed reads.
 
 ## MultiQC
-Create a single report from the analysis.
+Used to create a single report from the analysis.
 
 ## Nanoplot
-Plot sequencing data and alignment.
+Used to create:
+A statistical summary
+A number of plots
+A HTML summary file
 
 ## Unicycler
 Used for genome assembly.
 
 ## Prokka
-Genome annotation.
+Used for genome annotation.
 
 ## Busco
 Assess genome assembly and annotation completeness.
