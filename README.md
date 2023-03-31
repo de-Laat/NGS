@@ -39,7 +39,7 @@ Used to assign taxonomic labels to sequencing reads.
 ## Roary
 Used to find the sum of the core and accessory genomes (pan genome). 
 
-## starAMR
+## StarAMR
 Used to scan genome assemblies for AMR (AntiMicrobial Resistance) genes.
 
 ##RAxML
