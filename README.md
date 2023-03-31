@@ -1,5 +1,4 @@
 # NGS
-
 For NGS, we have analysed short read illumina data & long read nanopore data to find out what species the data came from. For this, we followed the following workflow:
 This project was performed by: Sven Klomp, Manon Cortooms, Dirk de Laat, Jomi Leerssen and Lars Moret.
 
